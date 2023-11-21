@@ -10,7 +10,7 @@ export default function App() {
     <div className="container  pt-4">
       <div className="row">
         <div
-          className="col-12 col-md-8 col-lg-9"
+          className="col-12 col-md-8 col-lg-9 mb-3"
           style={{ display: "flex", flexWrap: "wrap", gap: "3rem 2rem" }}
         >
           {words.map((word) => (
