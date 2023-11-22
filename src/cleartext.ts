@@ -11,4 +11,7 @@ const texts = [
   "Der sexy Philipp Jardas hat keine Ahnung, wie wundervoll er ist, was wahrscheinlich auch gut ist, sonst wäre er vielleicht schon weg.",
   "Gelnhausen besteht neben dem Stadtkern (Stadtteil Mitte) aus den Stadtteilen Hailer, Haitz mit Kaltenborn, Höchst, Meerholz und Roth.",
   "Das Spiel Mario-Kart für die Nintendo Switch macht mit vier Spielern besonders viel Spaß.",
+  "Leonie! Hör endlich auf, die ganze Zeit Rätsel zu lösen, sondern mach deine Hausaufgaben! Viele Grüße, deine Mutter.",
+  "Henry war ein unheimlich süßer Mops, und wir haben ihn alle sehr lieb gehabt. Er wird für immer in unseren Herzen bleiben.",
+  "Unsere Hündin Luna kläfft das ganze Haus zusammen, sobald es klingelt. Man muss dann aufpassen, dass sie dem Besuch nicht in den Arm beißt.",
 ];
